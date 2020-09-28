@@ -8,7 +8,7 @@ matlab implementation of “Rapid shape acquisition using color structured light
 
 
 - decoded image
-![](https://i.imgur.com/AGXgxhm.jpg =250x)    
+![](https://i.imgur.com/AGXgxhm.jpg =250x250)    
 ![](https://i.imgur.com/03tskck.png =200x)
 
 
