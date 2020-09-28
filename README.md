@@ -3,6 +3,7 @@
 matlab implementation of “Rapid shape acquisition using color structured light and multi-pass dynamic programming.” Zhang, Li et al. 
 
 - sample imput
+<img data-canonical-src="https://i.imgur.com/o4VTKoB.jpg" width="200" height="400" />
 ![](https://i.imgur.com/o4VTKoB.jpg | width=100)    
 ![](https://i.imgur.com/3IMJQ7I.png | height=300)
 
