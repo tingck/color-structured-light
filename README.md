@@ -8,10 +8,10 @@ matlab implementation of “Rapid shape acquisition using color structured light
 
 
 - decoded image
-<img src="https://i.imgur.com/AGXgxhm.jpg" height="300">
-<img src="https://i.imgur.com/03tskck.png" height="300">
+
+<img src="https://i.imgur.com/AGXgxhm.jpg" height="250"> <img src="https://i.imgur.com/03tskck.png" height="300">
 
 
 - point cloud (processed)
-<img src="https://i.imgur.com/1NVdNhG.png" height="300">
-<img src="https://i.imgur.com/K2HRtIF.png" height="300">
+
+<img src="https://i.imgur.com/1NVdNhG.png" height="300"> <img src="https://i.imgur.com/K2HRtIF.png" height="300">
